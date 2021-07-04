@@ -1,0 +1,5 @@
+﻿  main.c
+f:\my documents\danh imic\test4\test4\test4\main.c(10): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+f:\my documents\danh imic\test4\test4\test4\main.c(15): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+f:\my documents\danh imic\test4\test4\test4\main.c(15): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  Test4.vcxproj -> F:\My Documents\Danh IMIC\Test4\Test4\Debug\Test4.exe
